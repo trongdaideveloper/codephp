@@ -1,0 +1,70 @@
+#bai9{
+    margin-left: 45px;
+}
+.imganh{
+    background-image: url('img/banner-2.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 400px;
+    width: 1000px;
+  
+}
+.imganh h1{
+    color: #094327;
+    font-size:60px;
+    font-weight: 100;
+    text-align: center;
+   font-family:initial;
+   padding-top: 30px;
+}
+.imganh p{
+    color: #BB1CC8;
+    font-weight: 100;
+    font-family: sans-serif;
+    font-size: 32px;
+    text-align:center;
+    line-height: 4%;
+    padding-top: 25px;
+    margin-top: 20px;
+    
+}
+#bai10{
+    width: 320px;
+    border: 1px solid #121212;
+  
+    background-color: #F2C1A3;
+    margin-top: 20px;
+}
+#bai10>.formdangky{
+    margin: 0 auto;
+    padding: 0;
+}
+#bai10>.formdangky h2{
+    padding: 4px 10px;
+    margin-left: 15px;
+    color: #121212;
+    font-size: 36px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+#bai10>.formdangky ul{
+    padding: 15px;
+    margin-bottom: 15px;
+   
+}
+#bai10>.formdangky ul li{
+    margin-bottom: 3px;
+    list-style-type: none;
+}
+.formdangky p{
+    font-size: 18px;
+    background-color: white;
+}
+.ovuong{
+    padding:0;
+    margin: 0 auto;
+    
+}
+
+
